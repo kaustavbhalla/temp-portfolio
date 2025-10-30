@@ -16,6 +16,7 @@ export const DATA = {
     "React",
     "Next.js",
     "Javascript",
+    "Typescript",
     "Node.js",
     "Express.js",
     "Python",
