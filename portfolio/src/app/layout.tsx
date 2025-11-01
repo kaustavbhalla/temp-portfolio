@@ -26,6 +26,14 @@ export const metadata: Metadata = {
     siteName: `${DATA.name}`,
     locale: "en_US",
     type: "website",
+    images: [
+      {
+        url: "https://kaustavbhalla.vercel.app/og-image.png",
+        width: 1919,
+        height: 1079,
+        alt: "Open Graph Image"
+      }
+    ]
   },
   robots: {
     index: true,
