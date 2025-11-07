@@ -8,6 +8,9 @@ import { Badge } from "@/components/ui/badge";
 import { DATA } from "@/data/resume";
 import Link from "next/link";
 import Markdown from "react-markdown";
+import dynamic from "next/dynamic";
+
+const GitHubContributions = dynamic(() => import("@/components/github-contributions").then(mod => mod.GitHubContributions), { ssr: false });
 
 const BLUR_FADE_DELAY = 0.04;
 
@@ -62,6 +65,10 @@ export default function Page() {
             ))}
           </div>
         </div>
+      </section>
+
+      <section id="github" className="mb-section-lg">
+        <GitHubContributions username="kaustavbhalla" delay={BLUR_FADE_DELAY * 24} />
       </section>
       <section id="work">
         <div className="flex min-h-0 flex-col gap-y-3">
