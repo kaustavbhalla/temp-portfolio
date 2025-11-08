@@ -58,7 +58,7 @@ export const DATA = {
       },
       Youtube: {
         name: "Youtube",
-        url: "https://dub.sh/dillion-youtube",
+        url: "https://www.youtube.com/@KaustavBhalla",
         icon: Icons.youtube,
         navbar: true,
       },
