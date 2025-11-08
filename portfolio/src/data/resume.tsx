@@ -8,7 +8,7 @@ export const DATA = {
   location: "Delhi, India",
   locationLink: "https://www.google.com/maps/place/Delhi/@28.6440837,77.0932314,10z/data=!3m1!4b1!4m6!3m5!1s0x390cfd5b347eb62d:0x37205b715389640!8m2!3d28.7040592!4d77.1024902!16zL20vMDlmMDc?entry=ttu&g_ep=EgoyMDI1MTAyOC4wIKXMDSoASAFQAw%3D%3D",
   description:
-    "Software Engineer, based out of Delhi. \n Love engineering solutions to complex problems, enjoy building and orchestrating end-to-end solutions.",
+    "Also known as Codestream. \n Software Engineer, based out of Delhi. Love engineering solutions to complex problems, enjoy building and orchestrating end-to-end solutions.",
   summary:
     "Based out of Delhi, India. [I'm currently pursuing a degree in computer science and engineering](/#education), building [TalentLoop](), and [competed in hackathons for fun](/#hackathons). I'm a fullstack engineer with specializations in AI-ML based solutions.",
   avatarUrl: "/me2.jpg",
