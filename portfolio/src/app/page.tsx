@@ -218,7 +218,7 @@ export default function Page() {
               <p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                 Want to reach out? Just contact me on the given socials on the dock{" "}
                
-                  with a direct question.
+                  with a direct question, 
                 {" "}
                 and I&apos;ll respond.
               </p>
