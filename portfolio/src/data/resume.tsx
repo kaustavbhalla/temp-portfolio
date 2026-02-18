@@ -11,7 +11,7 @@ export const DATA = {
     "Also known as Codestream. \n Software Engineer, based out of Delhi. Love engineering solutions to complex problems, enjoy building and orchestrating end-to-end solutions.",
   summary:
     "Based out of Delhi, India. [I'm currently pursuing a degree in computer science and engineering](/#education), building [TalentLoop](), and [competed in hackathons for fun](/#hackathons). I'm a fullstack engineer with specializations in AI-ML based solutions.",
-  avatarUrl: "/me3.jpeg",
+  avatarUrl: "/me4.jpg",
   skills: [
     "FastAPI",
     "Langchain",
