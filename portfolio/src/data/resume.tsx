@@ -82,6 +82,18 @@ export const DATA = {
 
   work: [
     {
+    company: "BeHooked",
+    href: "https://behooked.co",
+    badges: ["Internship"],
+    location: "Remote",
+    title: "Software Engineer Intern",
+    logoUrl: "/beHookedlogo.png",
+    start: "Apr 2026",
+    end: "Present",
+    description:
+      "Software Engineer Intern at BeHooked, working on innovative AI-powered solutions."
+  },
+    {
     company: "USICT, GGSIPU",
     href: "",
     badges: ["Full-time"],
